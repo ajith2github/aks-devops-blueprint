@@ -1,0 +1,5 @@
+client_id              = "<client_id_goes_here>"
+client_secret          = "clinet_secret_goes_here"
+tenant_id              = "tenant_id"
+admin_group_object_id  = "aad group object id"
+subscription_id        = "subscription id goes here"
